@@ -115,7 +115,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: und mehr
-        title_align: left
+        title_align: center
         content_align: left
         actions: []
         actions_align: left
