@@ -257,7 +257,7 @@ sections:
     form_width: fifty
     form_layout: stacked
     enable_card: false
-    form_id: '1'
+    form_id: kontakt
     form_action: Senden
     form_fields:
       - input_type: text
