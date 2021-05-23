@@ -8,7 +8,7 @@ sections:
       Reifenwechsel bis zur Beseitigung von Unfallschäden alles an.
     actions:
       - label: Anfahrt
-        url: '#'
+        url: 'http://maps.google.com/maps?daddr=Pforzheimer+Straße+9+75242+Neuhausen'
         style: primary
         has_icon: false
         icon: arrow-left
