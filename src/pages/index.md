@@ -25,13 +25,7 @@ sections:
       - title: Inspektion
         title_align: center
         content_align: center
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
+        actions: []
         actions_align: left
         image: images/001-car-search.png
         image_alt: Icon 1
