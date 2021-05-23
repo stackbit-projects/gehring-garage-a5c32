@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Instantly Boost Your Productivity
+    title: Gehring Garage
     subtitle: >-
       Ihre freie Autowerkstatt in Neuhausen und Umgebung. Wir bieten vom
       Reifenwechsel bis zur Beseitigung von Unfallschäden alles an.
