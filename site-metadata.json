@@ -5,7 +5,7 @@
     "mode": "light",
     "base_font": "sans-serif",
     "header": {
-        "title": "App",
+        "title": "Gehring Garage",
         "logo": "images/Gehring3.svg",
         "logo_alt": "App logo",
         "has_primary_nav": true,
