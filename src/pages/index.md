@@ -220,7 +220,7 @@ sections:
         default_value: Pflicht
       - input_type: email
         name: tel
-        label: lorem-ipsum
+        label: Telefonnummer
         default_value: lorem-ipsum
         options: []
         is_required: false
