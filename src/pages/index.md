@@ -90,6 +90,7 @@ sections:
         image_align: center
         image_has_padding: true
         type: grid_item
+        image: images/005-evacuator.png
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: small
