@@ -247,6 +247,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
+    subtitle: schnell und einfach
 seo:
   title: Stackbit App Theme
   description: The preview of the App theme
