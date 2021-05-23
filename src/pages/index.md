@@ -134,9 +134,10 @@ sections:
     background_color: none
   - type: cta_section
     title: Hauptöffnungszeiten
-    content: >-
-      Download App Land now and connect with all your calendars, project
-      management tools and task lists — it doesn't get easier than this!
+    content: |
+      ### **Mo - Fr**
+
+      von 8:00 bis 17:00 Uhr
     actions:
       - label: App Store
         url: /pricing
