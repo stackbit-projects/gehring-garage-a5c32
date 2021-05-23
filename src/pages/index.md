@@ -91,7 +91,6 @@ sections:
         type: grid_item
         image: images/005-evacuator.png
       - title: Oilwechsel
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
