@@ -300,7 +300,7 @@ sections:
     type: form_section
     subtitle: E-Mail senden
 seo:
-  title: Stackbit App Theme
+  title: Autowerkstatt Gehring Garage
   description: The preview of the App theme
   extra:
     - name: 'og:type'
