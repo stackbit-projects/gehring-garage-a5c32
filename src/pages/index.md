@@ -230,6 +230,7 @@ sections:
         options: []
         is_required: true
         type: form_field
+        default_value: Pflicht
       - input_type: text
         name: lorem-ipsum
         label: lorem-ipsum
