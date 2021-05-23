@@ -29,7 +29,7 @@ sections:
         actions_align: left
         image: images/001-car-search.png
         image_alt: Icon 1
-        image_align: left
+        image_align: center
         image_has_padding: true
         image_position: top
       - title: On Any Device
