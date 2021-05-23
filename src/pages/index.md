@@ -3,10 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: Gehring Garage
-    content: >-
-      App Land combines your work and home calendars with all your task
-      management tools into one seamless experience controlled by a single app
-      that you can use on any device.
+    content: >
+      Ihre freie Autowerkstatt in Neuhausen und Umgebung. Wir bieten vom
+      Reifenwechsel bis zur Beseitigung von Unfallschäden alles an.
     actions:
       - label: App Store
         url: /pricing
