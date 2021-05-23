@@ -23,7 +23,7 @@ sections:
     align: center
     grid_items:
       - title: Inspektion
-        title_align: left
+        title_align: center
         content_align: left
         actions:
           - label: Learn More
