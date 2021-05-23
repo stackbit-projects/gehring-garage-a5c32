@@ -90,7 +90,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: images/005-evacuator.png
-      - title: lorem-ipsum
+      - title: Oilwechsel
         subtitle: lorem-ipsum
         title_align: left
         content: >-
