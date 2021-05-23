@@ -322,7 +322,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the App theme
     - name: 'twitter:image'
-      value: images/post-1.jpg
+      value: /_static/app-assets/Gehring3.svg
       relativeUrl: true
     - name: 'og:description'
       value: >-
