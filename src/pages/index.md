@@ -175,7 +175,7 @@ sections:
         type: grid_item
         image: images/ford_tiny.png
     grid_cols: four
-    grid_gap_vert: small
+    grid_gap_vert: large
     grid_gap_horiz: small
     enable_cards: false
     align: center
