@@ -65,7 +65,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: images/006-wheel.png
-      - title: lorem-ipsum
+      - title: Oldtimer Restauration
         subtitle: lorem-ipsum
         title_align: left
         content: >-
