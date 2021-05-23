@@ -36,7 +36,7 @@
             {
                 "label": "07234 6921",
                 "url": "tel:+4972346921",
-                "style": "secondary",
+                "style": "primary",
                 "has_icon": false,
                 "icon": "arrow-right",
                 "no_follow": true
