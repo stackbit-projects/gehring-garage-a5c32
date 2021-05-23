@@ -52,7 +52,7 @@ sections:
         image_align: center
         image_has_padding: true
         image_position: top
-      - title: lorem-ipsum
+      - title: Reifenwechsel
         subtitle: lorem-ipsum
         title_align: left
         content: >-
