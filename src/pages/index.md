@@ -237,8 +237,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: images/Volkswagen.svg
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
