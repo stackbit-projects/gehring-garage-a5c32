@@ -233,7 +233,7 @@ sections:
         default_value: Pflicht
       - input_type: textarea
         name: Message
-        label: lorem-ipsum
+        label: Nachricht
         default_value: lorem-ipsum
         options: []
         is_required: false
