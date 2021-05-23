@@ -102,6 +102,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: images/010-oil.png
       - title: und mehr
         title_align: center
         content_align: left
