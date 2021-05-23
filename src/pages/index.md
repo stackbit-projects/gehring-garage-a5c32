@@ -53,7 +53,6 @@ sections:
         image_has_padding: true
         image_position: top
       - title: Reifenwechsel
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
