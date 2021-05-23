@@ -142,7 +142,7 @@ sections:
       Bitte vereinbaren Sie telefonisch einen Termin.
     actions:
       - label: Anrufen
-        url: 'tel:07234 6921'
+        url: 'tel:072346921'
         style: primary
       - label: Google Play
         url: /pricing
