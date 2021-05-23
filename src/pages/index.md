@@ -218,7 +218,7 @@ sections:
         is_required: true
         type: form_field
         default_value: Pflicht
-      - input_type: email
+      - input_type: tel
         name: tel
         label: Telefonnummer
         options: []
