@@ -12,7 +12,7 @@
         "primary_nav_links": [
             {
                 "label": "Pricing",
-                "url": "/pricing",
+                "url": "#dienstleistungen",
                 "style": "link"
             },
             {
