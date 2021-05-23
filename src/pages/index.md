@@ -78,7 +78,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: images/012-autolift.png
-      - title: lorem-ipsum
+      - title: Abschleppdienst
         subtitle: lorem-ipsum
         title_align: left
         content_align: left
