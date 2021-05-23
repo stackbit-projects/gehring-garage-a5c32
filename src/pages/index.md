@@ -222,8 +222,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: images/audi.png
-      - subtitle: lorem-ipsum
-        title_align: left
+      - title_align: left
         content: >-
           ## Lorem ipsum
 
