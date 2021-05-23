@@ -66,7 +66,7 @@ sections:
         type: grid_item
         image: images/006-wheel.png
       - title: Oldtimer Restauration
-        title_align: left
+        title_align: center
         content: >-
           ## Lorem ipsum
 
