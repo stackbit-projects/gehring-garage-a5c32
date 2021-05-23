@@ -176,7 +176,7 @@ sections:
         image: images/ford_tiny.png
     grid_cols: four
     grid_gap_vert: small
-    grid_gap_horiz: large
+    grid_gap_horiz: small
     enable_cards: false
     align: center
     padding_top: medium
