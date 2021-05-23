@@ -79,7 +79,6 @@ sections:
         type: grid_item
         image: images/012-autolift.png
       - title: Abschleppdienst
-        subtitle: lorem-ipsum
         title_align: left
         content_align: left
         actions: []
