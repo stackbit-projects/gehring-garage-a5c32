@@ -309,9 +309,6 @@ seo:
     - name: 'og:title'
       value: Autowerkstatt Gehring Garage
       keyName: property
-    - name: 'og:description'
-      value: The preview of the App theme
-      keyName: property
     - name: 'og:image'
       value: /_static/app-assets/Gehring3.svg
       keyName: property
