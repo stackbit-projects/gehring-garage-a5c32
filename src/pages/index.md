@@ -95,7 +95,7 @@ sections:
     grid_gap_vert: small
     enable_cards: true
     padding_top: medium
-    padding_bottom: medium
+    padding_bottom: small
     background_color: none
   - type: features_section
     features:
