@@ -26,7 +26,7 @@ sections:
     padding_bottom: large
     background_color: none
     background_image: images/Slice 1.jpg
-    background_image_opacity: 50
+    background_image_opacity: 30
   - type: grid_section
     title: What's Great About App Land?
     subtitle: In a Glance
