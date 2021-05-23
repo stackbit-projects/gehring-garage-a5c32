@@ -190,7 +190,6 @@ sections:
     has_border: false
     background_color: none
   - title: E-Mail senden
-    subtitle: lorem-ipsum
     title_align: left
     content: >-
       ## Lorem ipsum
