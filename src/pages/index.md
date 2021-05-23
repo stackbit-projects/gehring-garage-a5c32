@@ -232,7 +232,7 @@ sections:
         type: form_field
         default_value: Pflicht
       - input_type: textarea
-        name: lorem-ipsum
+        name: Message
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
