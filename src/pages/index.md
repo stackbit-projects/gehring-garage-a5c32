@@ -214,7 +214,6 @@ sections:
       - input_type: text
         name: fullname
         label: Vollständiger Name
-        default_value: lorem-ipsum
         options: []
         is_required: false
         type: form_field
