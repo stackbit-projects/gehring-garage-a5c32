@@ -259,6 +259,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: images/Dacia.svg
       - title_align: left
         content: >-
           ## Lorem ipsum
