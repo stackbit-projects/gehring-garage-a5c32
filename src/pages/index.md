@@ -212,7 +212,7 @@ sections:
         image_align: center
         image_has_padding: true
         type: grid_item
-        image: images/volkswagen.png
+        image: images/Volkswagen.svg
       - title_align: left
         content_align: left
         actions: []
