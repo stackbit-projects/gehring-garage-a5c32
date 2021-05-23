@@ -218,6 +218,13 @@ sections:
         is_required: true
         type: form_field
         default_value: Pflicht
+      - input_type: text
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
+        type: form_field
     submit_label: lorem-ipsum
     align_vert: top
     padding_top: medium
