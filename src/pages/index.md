@@ -79,7 +79,7 @@ sections:
         type: grid_item
         image: images/012-autolift.png
       - title: Abschleppdienst
-        title_align: left
+        title_align: center
         content_align: left
         actions: []
         actions_align: left
