@@ -188,7 +188,7 @@ sections:
         image_align: center
         image_has_padding: true
         type: grid_item
-        image: images/peugeot_tiny.png
+        image: images/peugeot.svg
       - title_align: left
         content_align: left
         actions: []
