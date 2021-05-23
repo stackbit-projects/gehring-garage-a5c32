@@ -18,7 +18,8 @@
                 "style": "primary",
                 "has_icon": false,
                 "icon": "arrow-right",
-                "no_follow": true
+                "no_follow": true,
+                "new_window": true
             },
             {
                 "label": "E-Mail",
