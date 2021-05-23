@@ -7,7 +7,7 @@ sections:
       Ihre freie Autowerkstatt in Neuhausen und Umgebung. Wir bieten vom
       Reifenwechsel bis zur Beseitigung von Unfallschäden alles an.
     actions:
-      - label: lorem-ipsum
+      - label: Anfahrt
         url: '#'
         style: link
         has_icon: false
