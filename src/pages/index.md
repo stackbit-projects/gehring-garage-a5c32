@@ -24,7 +24,7 @@ sections:
     grid_items:
       - title: Inspektion
         title_align: center
-        content_align: left
+        content_align: center
         actions:
           - label: Learn More
             url: /style-guide
