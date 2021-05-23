@@ -301,7 +301,9 @@ sections:
     subtitle: E-Mail senden
 seo:
   title: Autowerkstatt Gehring Garage
-  description: freie KFZ Werkstatt in Neuhausen (Enzkreis) für alle Marken.
+  description: >-
+    Freie KFZ Werkstatt in Neuhausen (Enzkreis) für alle Marken. Reifenwechsel,
+    Inspektion, Smart repair, Restauration und vieles mehr.
   extra:
     - name: 'og:type'
       value: website
