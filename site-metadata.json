@@ -35,7 +35,7 @@
         "secondary_nav_links": [
             {
                 "label": "07234 6921",
-                "url": "/pricing",
+                "url": "tel:07234 6921",
                 "style": "primary"
             }
         ],
