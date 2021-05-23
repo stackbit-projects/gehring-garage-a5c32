@@ -191,8 +191,6 @@ sections:
     background_color: none
   - title: E-Mail senden
     title_align: left
-    content: |
-      *
     content_align: left
     form_position: bottom
     form_width: fifty
