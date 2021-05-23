@@ -65,7 +65,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: images/006-wheel.png
-      - title: Oldtimer Restauration
+      - title: Oldtimer restauration
         title_align: center
         content_align: left
         actions: []
