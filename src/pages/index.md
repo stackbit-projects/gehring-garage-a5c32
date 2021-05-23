@@ -49,7 +49,7 @@ sections:
         actions_align: left
         image: images/icon-3.svg
         image_alt: Icon 3
-        image_align: left
+        image_align: center
         image_has_padding: true
         image_position: top
     grid_cols: four
