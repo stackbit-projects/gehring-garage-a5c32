@@ -297,7 +297,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
-    subtitle: schnell und einfach
+    subtitle: E-Mail senden
 seo:
   title: Stackbit App Theme
   description: The preview of the App theme
