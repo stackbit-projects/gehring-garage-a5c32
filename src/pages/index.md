@@ -317,8 +317,6 @@ seo:
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
-    - name: 'twitter:description'
-      value: The preview of the App theme
     - name: 'twitter:image'
       value: /_static/app-assets/Gehring3.svg
       relativeUrl: true
