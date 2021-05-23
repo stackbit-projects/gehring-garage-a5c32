@@ -38,7 +38,8 @@
                 "url": "tel:+4972346921",
                 "style": "secondary",
                 "has_icon": true,
-                "icon": "arrow-right"
+                "icon": "arrow-right",
+                "no_follow": true
             }
         ],
         "has_anncmnt": true,
