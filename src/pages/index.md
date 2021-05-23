@@ -144,7 +144,7 @@ sections:
       - label: Anrufen
         url: 'tel:+4972346921'
         style: primary
-      - label: Google Play
+      - label: Anfahrt
         url: /pricing
         style: secondary
         has_icon: false
