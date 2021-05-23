@@ -42,7 +42,7 @@
     "footer": {
         "logo": "images/Gehring3.svg",
         "logo_alt": "Gehring Garage",
-        "has_primary_nav": true,
+        "has_primary_nav": false,
         "primary_nav_title": "Company",
         "primary_nav_links": [
             {
