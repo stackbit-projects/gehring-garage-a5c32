@@ -217,6 +217,7 @@ sections:
         options: []
         is_required: true
         type: form_field
+        default_value: pflicht
     submit_label: lorem-ipsum
     align_vert: top
     padding_top: medium
