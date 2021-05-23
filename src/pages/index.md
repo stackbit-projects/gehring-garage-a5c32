@@ -3,9 +3,6 @@ title: Home
 sections:
   - type: hero_section
     title: Gehring Garage
-    subtitle: >-
-      Ihre freie Autowerkstatt in Neuhausen und Umgebung. Wir bieten vom
-      Reifenwechsel bis zur Beseitigung von Unfallschäden alles an.
     content: >-
       App Land combines your work and home calendars with all your task
       management tools into one seamless experience controlled by a single app
