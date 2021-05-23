@@ -324,5 +324,11 @@ seo:
     - name: 'twitter:image'
       value: images/post-1.jpg
       relativeUrl: true
+    - name: 'og:description'
+      value: >-
+        Freie KFZ Werkstatt in Neuhausen (Enzkreis) für alle Marken.
+        Reifenwechsel, Inspektion, Smart repair, Restauration und vieles mehr.
+      keyName: property
+      relativeUrl: false
 template: advanced
 ---
