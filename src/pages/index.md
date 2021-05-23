@@ -18,7 +18,7 @@ sections:
     background_image: images/Slice 1.jpg
     background_image_opacity: 30
   - type: grid_section
-    title: What's Great About App Land?
+    title: Dienstleistungen
     subtitle: In a Glance
     align: center
     grid_items:
