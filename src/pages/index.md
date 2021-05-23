@@ -138,6 +138,8 @@ sections:
       ### **Mo - Fr**
 
       von 8:00 bis 17:00 Uhr
+
+      Bitte vereinbaren Sie telefonisch einen Termin.
     actions:
       - label: App Store
         url: /pricing
