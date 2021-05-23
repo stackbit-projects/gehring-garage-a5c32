@@ -19,7 +19,6 @@ sections:
     background_image_opacity: 30
   - type: grid_section
     title: Dienstleistungen
-    subtitle: In a Glance
     align: center
     grid_items:
       - title: Inspektion
