@@ -200,6 +200,18 @@ sections:
         image_align: center
         image_has_padding: true
         type: grid_item
+        image: images/futuristic-turmeric.svg
+      - title_align: left
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: center
+        image_has_padding: true
+        type: grid_item
         image: images/renault.svg
       - title_align: left
         content_align: left
@@ -225,18 +237,6 @@ sections:
         image_has_padding: true
         type: grid_item
         image: images/Volkswagen.svg
-      - title_align: left
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: center
-        image_has_padding: true
-        type: grid_item
-        image: images/futuristic-turmeric.svg
     grid_cols: four
     grid_gap_vert: small
     grid_gap_horiz: small
