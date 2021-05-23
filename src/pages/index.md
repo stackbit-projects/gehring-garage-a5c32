@@ -212,7 +212,7 @@ sections:
     form_action: Senden
     form_fields:
       - input_type: text
-        name: Vollständiger Name
+        name: fullname
         label: Vollständiger Name
         default_value: lorem-ipsum
         options: []
