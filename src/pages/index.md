@@ -42,7 +42,7 @@ sections:
         image_align: center
         image_has_padding: true
         image_position: top
-      - title: Smart Notifications
+      - title: Smart Repair
         title_align: left
         content: >-
           Get color-coded notifications for easy viewing at a glance. Your tasks
