@@ -221,7 +221,6 @@ sections:
       - input_type: email
         name: tel
         label: Telefonnummer
-        default_value: lorem-ipsum
         options: []
         is_required: false
         type: form_field
