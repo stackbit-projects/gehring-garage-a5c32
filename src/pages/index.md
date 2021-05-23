@@ -236,7 +236,7 @@ sections:
         image_align: center
         image_has_padding: true
         type: grid_item
-        image: images/renault.webp
+        image: images/renault.svg
     grid_cols: four
     grid_gap_vert: small
     grid_gap_horiz: small
