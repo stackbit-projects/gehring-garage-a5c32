@@ -47,7 +47,7 @@ sections:
         content_align: left
         actions: []
         actions_align: left
-        image: images/icon-3.svg
+        image: images/pleasant-chestnut.png
         image_alt: Icon 3
         image_align: center
         image_has_padding: true
