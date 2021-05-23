@@ -43,7 +43,7 @@ sections:
         image_has_padding: true
         image_position: top
       - title: Smart Repair
-        title_align: left
+        title_align: center
         content_align: left
         actions: []
         actions_align: left
