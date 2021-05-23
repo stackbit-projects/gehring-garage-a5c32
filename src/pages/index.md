@@ -214,8 +214,7 @@ sections:
       - input_type: text
         name: fullname
         label: Vollständiger Name
-        options:
-          - lorem-ipsum
+        options: []
         is_required: true
         type: form_field
     submit_label: lorem-ipsum
