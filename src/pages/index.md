@@ -14,7 +14,7 @@ sections:
         icon: arrow-left
         icon_position: right
         new_window: false
-        no_follow: false
+        no_follow: true
         type: action
     image: images/Gehring3.svg
     image_alt: Hero section placeholder image
