@@ -250,7 +250,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-  - title: E-Mail senden
+  - title: Kontakt
     title_align: left
     content_align: left
     form_position: bottom
