@@ -141,7 +141,7 @@ sections:
 
       Bitte vereinbaren Sie telefonisch einen Termin.
     actions:
-      - label: App Store
+      - label: Anrufen
         url: /pricing
         style: primary
       - label: Google Play
