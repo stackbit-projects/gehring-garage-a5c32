@@ -219,7 +219,7 @@ sections:
         type: form_field
         default_value: Pflicht
       - input_type: email
-        name: lorem-ipsum
+        name: tel
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
