@@ -32,7 +32,7 @@ sections:
         image_align: center
         image_has_padding: true
         image_position: top
-      - title: On Any Device
+      - title: Scheibenwechsel
         title_align: left
         content: >-
           App Land synchronizes across Android and iOS phones, and on your
