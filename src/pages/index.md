@@ -39,7 +39,7 @@ sections:
         actions_align: left
         image: images/011-cracked-windshield.png
         image_alt: Icon 2
-        image_align: left
+        image_align: center
         image_has_padding: true
         image_position: top
       - title: Smart Notifications
