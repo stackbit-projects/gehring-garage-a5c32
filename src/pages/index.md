@@ -137,7 +137,7 @@ sections:
     content: |
       ### **Mo - Fr**
 
-      <a>von 10:00 bis 18:00 Uhr</a>
+      von 10:00 bis 18:00 Uhr
 
       Bitte vereinbaren Sie telefonisch einen Termin.
     actions:
