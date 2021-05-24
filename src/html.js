@@ -14,8 +14,8 @@ export default function HTML(props) {
             "address": {
                 "@type": "PostalAddress",
                 "addressLocality": "Neuhausen",
-                "addressRegion": "WA",
-                "postalCode": "98052",
+                "addressRegion": "BW",
+                "postalCode": "75242",
                 "streetAddress": "20341 Whitworth Institute 405 N. Whitworth"
             },
             "description": "Freie KFZ Werkstatt in Neuhausen (Enzkreis) für alle Marken. Reifenwechsel, Inspektion, Smart repair, Restauration und vieles mehr.",
