@@ -12,12 +12,12 @@ export default function HTML(props) {
             "@type": ["AutoRepairtion", "AutoBodyShop"],
             "name": "Autowerkstatt Uwe Gehring",
               "address": {
-    "@type": "PostalAddress",
-    "addressLocality": "Seattle",
-    "addressRegion": "WA",
-    "postalCode": "98052",
-    "streetAddress": "20341 Whitworth Institute 405 N. Whitworth"
-  },
+                "@type": "PostalAddress",
+                "addressLocality": "Seattle",
+                "addressRegion": "WA",
+                "postalCode": "98052",
+                "streetAddress": "20341 Whitworth Institute 405 N. Whitworth"
+            },
             "description": "Freie KFZ Werkstatt in Neuhausen (Enzkreis) für alle Marken. Reifenwechsel, Inspektion, Smart repair, Restauration und vieles mehr.",
             "openingHours":["Mo-Fr 10:00-18:00", "Sa 11:00-16:00"],
             "currenciesAccepted": "EUR",
