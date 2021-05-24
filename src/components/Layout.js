@@ -41,7 +41,7 @@ export default class Body extends React.Component {
                     })}
                             <script type="application/ld+json">
         {
-            "@context": "https://schema.org",
+            "@context":"https://schema.org",
             "@type": ["AutoRepairtion", "AutoBodyShop"],
             "name": "Gehring Garage",
             "address": {
