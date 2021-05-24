@@ -140,13 +140,13 @@ sections:
       von 10:00 bis 18:00 Uhr
         <span itemscope itemtype="https://schema.org/AutoRepair https://schema.org/AutoBodyShop">
         <meta itemprop="name" content="Gehring Garage" />
-        <div itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
+        <span itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
         <meta itemprop="addressCountry" content="Germany" />
         <meta itemprop="addressLocality" content="Neuhausen" />
         <meta itemprop="addressRegion" content="Baden-Württemberg" />
         <meta itemprop="postalCode" content="75242" />
         <meta itemprop="streetAddress" content="Pforzheimer Straße 9" />
-        </div>
+        </span>
         <meta itemprop="openingHours" content="Mo-Fr 10:00-18:00"/>
         <meta itemprop="openingHours" content="Sa 11:00-16:00"/>
         <meta itemprop="currenciesAccepted" content="EUR" />
