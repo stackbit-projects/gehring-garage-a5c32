@@ -19,7 +19,7 @@
                 "has_icon": false,
                 "icon": "arrow-right",
                 "no_follow": false,
-                "new_window": true
+                "new_window": false
             },
             {
                 "label": "E-Mail",
