@@ -16,7 +16,7 @@ export default function HTML(props) {
             "isAccessibleForFree": false,
             "currenciesAccepted": "EUR",
             "paymentAccepted":"Cash, Credit Card",
-            "url":"http://www.disneylandparis.it/"
+            "url":"http://www.gehring-garage.de/"
         }
         </script>
       </head>
