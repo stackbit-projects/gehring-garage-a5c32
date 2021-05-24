@@ -158,7 +158,7 @@ sections:
         <meta itemprop="url" content="http://www.gehring-garage.de/" />
         </div>
       Bitte vereinbaren Sie telefonisch einen Termin.
-      <a target="_blank" rel="noopener nofollow" class="btn btn--primary" href=".tel:072346921">Anrufen</a>
+      <a target="_blank" rel="noopener nofollow" class="btn btn--primary" href="tel:072346921">Anrufen</a>
     actions:
       - label: Anrufen
         url: 'tel:072346921'
