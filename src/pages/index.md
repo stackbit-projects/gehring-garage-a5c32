@@ -159,7 +159,7 @@ sections:
         </div>
       Bitte vereinbaren Sie telefonisch einen Termin.
       <br>
-      <a target="_blank" rel="noopener nofollow" class="btn btn--primary" href="tel:072346921">Festnetz</a><a target="_blank" rel="noopener nofollow" class="btn btn--primary" href=".tel:072340172 72093186921">Mobile</a>
+      <a target="_blank" rel="noopener nofollow" class="btn btn--primary" href="tel:072346921">Festnetz</a><a target="_blank" rel="noopener nofollow" class="btn btn--primary" href="tel:0172 7209318">Mobile</a>
     actions:
       - label: Anrufen
         url: 'tel:072346921'
