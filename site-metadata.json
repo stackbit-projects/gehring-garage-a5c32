@@ -13,7 +13,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "E-Mail",
+                "label": "Anrufen",
                 "url": "#kontakt",
                 "style": "secondary",
                 "has_icon": false,
