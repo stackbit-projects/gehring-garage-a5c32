@@ -10,7 +10,7 @@ export default function HTML(props) {
         {
             "@context": "https://schema.org",
             "@type": ["AutoRepairtion", "AutoBodyShop"],
-            "name": "Autowerkstatt Uwe Gehring",
+            "name": "",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Germany",
@@ -24,7 +24,7 @@ export default function HTML(props) {
             "currenciesAccepted": "EUR",
             "priceRange": "$",
             "paymentAccepted":"Cash, Credit Card, Bank transfer",
-            "legalName": 
+            "legalName": "Autowerkstatt Uwe Gehring"
             "email": "info@gehring-garage.de"
             "url":"http://www.gehring-garage.de/"
         }
