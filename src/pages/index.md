@@ -158,7 +158,7 @@ sections:
         <meta itemprop="url" content="http://www.gehring-garage.de/" />
         </div>
       Bitte vereinbaren Sie telefonisch einen Termin.
-      <br/>
+      <br />
       <div id="anrufen" class="cta__actions btn-group justify-center">
       <a target="_blank" rel="noopener nofollow" class="btn btn--primary" href="tel:072346921">Festnetz anrufen</a>
       <a target="_blank" rel="noopener nofollow" class="btn btn--primary" href="tel:0172 7209318">Handy anrufen</a>
