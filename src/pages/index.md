@@ -156,7 +156,7 @@ sections:
         <meta itemprop="tel" content="+4972346921" />
         <meta itemprop="email" content="info@gehring-garage.de" />
         <meta itemprop="url" content="http://www.gehring-garage.de/" />
-</div>
+        </div>
       Bitte vereinbaren Sie telefonisch einen Termin.
     actions:
       - label: Anrufen
