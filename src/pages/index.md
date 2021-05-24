@@ -142,7 +142,7 @@ sections:
       Bitte vereinbaren Sie telefonisch einen Termin.
     actions:
       - label: Anrufen
-        url: 'tel:+4972346921'
+        url: 'tel:072346921'
         style: primary
         new_window: true
         no_follow: true
