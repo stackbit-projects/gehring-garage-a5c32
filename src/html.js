@@ -25,7 +25,7 @@ export default function HTML(props) {
             "priceRange": "$",
             "paymentAccepted":"Cash, Credit Card, Bank transfer",
             "legalName": "Autowerkstatt Uwe Gehring",
-            "tel": "",
+            "tel": "+4972349",
             "email": "info@gehring-garage.de",
             "url":"http://www.gehring-garage.de/"
         }
