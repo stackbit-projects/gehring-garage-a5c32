@@ -24,6 +24,7 @@ export default function HTML(props) {
             "currenciesAccepted": "EUR",
             "priceRange": "$",
             "paymentAccepted":"Cash, Credit Card, Bank transfer",
+            "email": 
             "url":"http://www.gehring-garage.de/"
         }
         </script>
