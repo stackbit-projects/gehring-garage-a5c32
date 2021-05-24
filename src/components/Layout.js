@@ -20,18 +20,18 @@ export default class Body extends React.Component {
                     <meta name="viewport" content="width=device-width, initialScale=1.0" />
                     <meta name="google" content="notranslate" />
                     <script type="application/ld+json">
-                        {
-                                "@context": "https://schema.org",
-                                "@type": ["TouristAttraction", "AmusementPark"],
-                                "name": "Disneyland Paris",
-                                "description": "It's an amusement park in Marne-la-Vallée, near Paris, in France and is the most visited theme park in all of France and Europe.",
-                                "openingHours":["Mo-Fr 10:00-19:00", "Sa 10:00-22:00", "Su 10:00-21:00"],
-                                "isAccessibleForFree": false,
-                                "currenciesAccepted": "EUR",
-                                "paymentAccepted":"Cash, Credit Card",
-                                "url":"http://www.disneylandparis.it/"
-                        }
-                        </script>
+                    {
+                            "@context": "https://schema.org",
+                            "@type": ["TouristAttraction", "AmusementPark"],
+                            "name": "Disneyland Paris",
+                            "description": "It's an amusement park in Marne-la-Vallée, near Paris, in France and is the most visited theme park in all of France and Europe.",
+                            "openingHours":["Mo-Fr 10:00-19:00", "Sa 10:00-22:00", "Su 10:00-21:00"],
+                            "isAccessibleForFree": false,
+                            "currenciesAccepted": "EUR",
+                            "paymentAccepted":"Cash, Credit Card",
+                            "url":"http://www.disneylandparis.it/"
+                    }
+                    </script>
                     <meta name="description" content={_.get(this.props, 'pageContext.frontmatter.seo.description', null) || ''} />
                     {_.get(this.props, 'pageContext.frontmatter.seo.robots', null) && (
                     <meta name="robots" content={_.join(_.get(this.props, 'pageContext.frontmatter.seo.robots', null), ',')}/>
