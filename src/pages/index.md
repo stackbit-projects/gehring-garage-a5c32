@@ -138,7 +138,25 @@ sections:
       ### **Mo - Fr**
 
       von 10:00 bis 18:00 Uhr
-
+        <div itemscope itemtype="https://schema.org/AutoRepairtion https://schema.org/AutoBodyShop">
+        <meta itemprop="name" content="Gehring Garage" />
+        <div itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
+        <meta itemprop="addressCountry" content="Germany" />
+        <meta itemprop="addressLocality" content="Neuhausen" />
+        <meta itemprop="addressRegion" content="Baden-Württemberg" />
+        <meta itemprop="postalCode" content="75242" />
+        <meta itemprop="streetAddress" content="Pforzheimer Straße 9" />
+        </div>
+        <meta itemprop="openingHours" content="Mo-Fr 10:00-18:00"/>
+        <meta itemprop="openingHours" content="Sa 11:00-16:00"/>
+        <meta itemprop="currenciesAccepted" content="EUR" />
+        <meta itemprop="priceRange" content="$" />
+        <meta itemprop="paymentAccepted" content="Cash, Credit Card, Bank transfer" />
+        <meta itemprop="legalName" content="Autowerkstatt Uwe Gehring" />
+        <meta itemprop="tel" content="+4972346921" />
+        <meta itemprop="email" content="info@gehring-garage.de" />
+        <meta itemprop="url" content="http://www.gehring-garage.de/" />
+</div>
       Bitte vereinbaren Sie telefonisch einen Termin.
     actions:
       - label: Anrufen
