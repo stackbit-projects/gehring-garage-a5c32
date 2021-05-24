@@ -14,7 +14,7 @@
         "secondary_nav_links": [
             {
                 "label": "Anrufen",
-                "url": "#anrufen",
+                "url": "#anruf",
                 "style": "primary",
                 "has_icon": false,
                 "icon": "arrow-right",
