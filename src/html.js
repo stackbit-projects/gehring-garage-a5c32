@@ -16,7 +16,7 @@ export default function HTML(props) {
                 "addressLocality": "Neuhausen",
                 "addressRegion": "BW",
                 "postalCode": "75242",
-                "streetAddress": "20341 Whitworth Institute 405 N. Whitworth"
+                "streetAddress": "Pforzheimer Straße 9"
             },
             "description": "Freie KFZ Werkstatt in Neuhausen (Enzkreis) für alle Marken. Reifenwechsel, Inspektion, Smart repair, Restauration und vieles mehr.",
             "openingHours":["Mo-Fr 10:00-18:00", "Sa 11:00-16:00"],
