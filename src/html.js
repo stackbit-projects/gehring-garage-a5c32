@@ -10,7 +10,7 @@ export default function HTML(props) {
         {
             "@context": "https://schema.org",
             "@type": ["AutoRepairtion", "AutoBodyShop"],
-            "name": "",
+            "name": "Gehring Garage",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "Germany",
