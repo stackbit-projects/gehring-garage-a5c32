@@ -165,7 +165,6 @@ sections:
       <a target="_blank" rel="noopener nofollow" class="btn btn--primary" href="tel:072346921">Festnetz anrufen</a>
       <a target="_blank" rel="noopener nofollow" class="btn btn--primary" href="tel:01727209318">Handy anrufen</a>
       </div>
-    Anschrift
       <p>Pforzheimer Straße 9<br>
       75242 Neuhausen</p>
     actions:
