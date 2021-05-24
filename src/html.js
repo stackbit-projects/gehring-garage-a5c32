@@ -13,6 +13,7 @@ export default function HTML(props) {
             "name": "Autowerkstatt Uwe Gehring",
             "address": {
                 "@type": "PostalAddress",
+                "addressCountry": "Germany",
                 "addressLocality": "Neuhausen",
                 "addressRegion": "BW",
                 "postalCode": "75242",
