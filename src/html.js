@@ -13,7 +13,6 @@ export default function HTML(props) {
             "name": "Disneyland Paris",
             "description": "It's an amusement park in Marne-la-Vallée, near Paris, in France and is the most visited theme park in all of France and Europe.",
             "openingHours":["Mo-Fr 10:00-19:00", "Sa 10:00-22:00", "Su 10:00-21:00"],
-            "isAccessibleForFree": false,
             "currenciesAccepted": "EUR",
             "paymentAccepted":"Cash, Credit Card, Bank transfer",
             "url":"http://www.gehring-garage.de/"
