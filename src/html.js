@@ -11,7 +11,7 @@ export default function HTML(props) {
             "@context": "https://schema.org",
             "@type": ["AutoRepairtion", "AutoBodyShop"],
             "name": "Autowerkstatt Uwe Gehring",
-            "description": "It's an amusement park in Marne-la-Vallée, near Paris, in France and is the most visited theme park in all of France and Europe.",
+            "description": "Freie KFZ Werkstatt in Neuhausen (Enzkreis) für alle Marken. Reifenwechsel, Inspektion, Smart repair, Restauration und vieles mehr.",
             "openingHours":["Mo-Fr 10:00-18:00", "Sa 11:00-16:00"],
             "currenciesAccepted": "EUR",
             "paymentAccepted":"Cash, Credit Card, Bank transfer",
