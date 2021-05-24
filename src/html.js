@@ -24,8 +24,8 @@ export default function HTML(props) {
             "currenciesAccepted": "EUR",
             "priceRange": "$",
             "paymentAccepted":"Cash, Credit Card, Bank transfer",
-            "legalName": "Autowerkstatt Uwe Gehring"
-            "email": "info@gehring-garage.de"
+            "legalName": "Autowerkstatt Uwe Gehring",
+            "email": "info@gehring-garage.de",
             "url":"http://www.gehring-garage.de/"
         }
         </script>
