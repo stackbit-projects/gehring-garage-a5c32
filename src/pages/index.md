@@ -163,11 +163,6 @@ sections:
       <a target="_blank" rel="noopener nofollow" class="btn btn--primary" href="tel:072346921">Festnetz anrufen</a><a target="_blank" rel="noopener nofollow" class="btn btn--primary" href="tel:0172 7209318">Handy anrufen</a>
       </div>
     actions:
-      - label: Anrufen
-        url: 'tel:072346921'
-        style: primary
-        new_window: true
-        no_follow: true
       - label: Anfahrt
         url: 'http://maps.google.com/maps?daddr=Pforzheimer+Straße+9+75242+Neuhausen'
         style: secondary
