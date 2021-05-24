@@ -42,7 +42,7 @@ export default class Body extends React.Component {
                             <script type="application/ld+json">
         {
             "@context":"https://schema.org",
-            "@type": ["AutoRepairtion", "AutoBodyShop"],
+            "@type":["AutoRepairtion", "AutoBodyShop"],
             "name": "Gehring Garage",
             "address": {
                 "@type": "PostalAddress",
