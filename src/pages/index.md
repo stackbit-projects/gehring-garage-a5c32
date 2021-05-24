@@ -138,6 +138,7 @@ sections:
       ### **Mo - Fr**
 
       von 10:00 bis 18:00 Uhr
+      <br />
         <span itemscope itemtype="https://schema.org/AutoRepair https://schema.org/AutoBodyShop">
         <meta itemprop="name" content="Gehring Garage" />
         <span itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
