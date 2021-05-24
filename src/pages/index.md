@@ -153,6 +153,7 @@ sections:
         <meta itemprop="priceRange" content="$" />
         <meta itemprop="paymentAccepted" content="Cash, Credit Card, Bank transfer" />
         <meta itemprop="legalName" content="Autowerkstatt Uwe Gehring" />
+        <meta itemprop="image" content="https://www.gehring-garage.de/images/bg.webp" />
         <meta itemprop="telephone" content="+4972346921" />
         <meta itemprop="email" content="info@gehring-garage.de" />
         <meta itemprop="url" content="http://www.gehring-garage.de/" />
