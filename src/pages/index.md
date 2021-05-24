@@ -138,7 +138,7 @@ sections:
       ### **Mo - Fr**
 
       von 10:00 bis 18:00 Uhr
-        <div itemscope itemtype="https://schema.org/AutoRepair https://schema.org/AutoBodyShop">
+        <span itemscope itemtype="https://schema.org/AutoRepair https://schema.org/AutoBodyShop">
         <meta itemprop="name" content="Gehring Garage" />
         <div itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
         <meta itemprop="addressCountry" content="Germany" />
