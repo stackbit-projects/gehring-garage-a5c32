@@ -24,7 +24,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
-    background_image: images/Slice 1.jpg
+    background_image: "images/Slice 1.jpg"
     background_image_opacity: 30
   - type: grid_section
     title: Dienstleistungen
