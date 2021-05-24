@@ -145,6 +145,7 @@ sections:
         url: 'tel:+4972346921'
         style: primary
         new_window: true
+        no_follow: true
       - label: Anfahrt
         url: 'http://maps.google.com/maps?daddr=Pforzheimer+Straße+9+75242+Neuhausen'
         style: secondary
