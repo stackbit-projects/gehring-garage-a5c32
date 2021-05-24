@@ -9,7 +9,7 @@ export default function HTML(props) {
         <script type="application/ld+json">
         {
             "@context": "https://schema.org",
-            "@type": ["AutoRepairtion", "AmusementPark"],
+            "@type": ["AutoRepairtion", "AutoBodyShop"],
             "name": "Disneyland Paris",
             "description": "It's an amusement park in Marne-la-Vallée, near Paris, in France and is the most visited theme park in all of France and Europe.",
             "openingHours":["Mo-Fr 10:00-18:00", "Sa 11:00-16:00"],
