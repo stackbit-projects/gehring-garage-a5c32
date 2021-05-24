@@ -12,7 +12,7 @@ export default function HTML(props) {
             "@type": ["AutoRepairtion", "AmusementPark"],
             "name": "Disneyland Paris",
             "description": "It's an amusement park in Marne-la-Vallée, near Paris, in France and is the most visited theme park in all of France and Europe.",
-            "openingHours":["Mo-Fr 10:00-18:00", "Sa 10:00-22:00", "Su 10:00-21:00"],
+            "openingHours":["Mo-Fr 10:00-18:00", "Sa 10:00-16:00", "Su 10:00-21:00"],
             "currenciesAccepted": "EUR",
             "paymentAccepted":"Cash, Credit Card, Bank transfer",
             "url":"http://www.gehring-garage.de/"
