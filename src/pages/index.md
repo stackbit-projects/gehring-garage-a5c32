@@ -159,7 +159,7 @@ sections:
         </div>
       Bitte vereinbaren Sie telefonisch einen Termin.
       <br>
-      <div class="cta__actions btn-group justify-center">
+      <div id="anrufen" class="cta__actions btn-group justify-center">
       <a target="_blank" rel="noopener nofollow" class="btn btn--primary" href="tel:072346921">Festnetz anrufen</a><a target="_blank" rel="noopener nofollow" class="btn btn--primary" href="tel:0172 7209318">Handy anrufen</a>
       </div>
     actions:
