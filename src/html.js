@@ -14,6 +14,7 @@ export default function HTML(props) {
             "description": "Freie KFZ Werkstatt in Neuhausen (Enzkreis) für alle Marken. Reifenwechsel, Inspektion, Smart repair, Restauration und vieles mehr.",
             "openingHours":["Mo-Fr 10:00-18:00", "Sa 11:00-16:00"],
             "currenciesAccepted": "EUR",
+            "priceRange": "$",
             "paymentAccepted":"Cash, Credit Card, Bank transfer",
             "url":"http://www.gehring-garage.de/"
         }
