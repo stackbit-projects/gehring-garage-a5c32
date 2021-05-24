@@ -13,7 +13,7 @@ export default function HTML(props) {
             "name": "Autowerkstatt Uwe Gehring",
             "address": {
                 "@type": "PostalAddress",
-                "addressLocality": "Seattle",
+                "addressLocality": "Neuhausen",
                 "addressRegion": "WA",
                 "postalCode": "98052",
                 "streetAddress": "20341 Whitworth Institute 405 N. Whitworth"
