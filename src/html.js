@@ -11,7 +11,7 @@ export default function HTML(props) {
             "@context": "https://schema.org",
             "@type": ["AutoRepairtion", "AutoBodyShop"],
             "name": "Autowerkstatt Uwe Gehring",
-              "address": {
+            "address": {
                 "@type": "PostalAddress",
                 "addressLocality": "Seattle",
                 "addressRegion": "WA",
